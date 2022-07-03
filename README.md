@@ -46,7 +46,10 @@ Acesse o youtube.com [cligando aqui ](https://youtube.com)
 Para montar uma tabela se coloca as informações da primeira linha separada por pipe | abaixo coloca a separação por 3 traços e um pipe ---| com a quantidade de colunas 
 ex:
 Num | Aluno | Nota
-
+--- | --- | --- | 
+1 | Tiago | 10,0
+2 | Jeanne | 10,0
+3 | blabla | 8,5
 
 
 
