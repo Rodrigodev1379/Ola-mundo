@@ -27,10 +27,28 @@ Para fazer uma lista demarcada basta colocar um * ou - . Para indentar também �
    * Teste
    * teste
 ### Lista de tarefas
-Para criar a lista de tarefas basta colocar -[] traço e colchetes. Para colocar check nas tarefas basta colocar um x entre os colchetes []
+Para criar a lista de tarefas basta colocar -[] traço espaço abre colchetes espaço e fecha colchetes. Para colocar check nas tarefas basta colocar um x entre os colchetes []
 - [x] terminar o curso 
-- [] desligar o micro 
-- [] fazer outro curso
+- [ ] desligar o micro 
+- [ ] fazer outro curso
+
+## Colocando imagens
+Para colocar imagens basta arrastar a imgaem para a linha que está abaixo do editor "Attach files by dragging & dropping,
+selecting or pasting them."
+![noite](https://user-images.githubusercontent.com/108586531/177046233-e2032b1b-4b1f-4494-8be5-4ffbce54299c.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
