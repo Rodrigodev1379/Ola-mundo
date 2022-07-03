@@ -51,6 +51,23 @@ Num | Aluno | Nota
 2 | Jeanne | 10,0
 3 | blabla | 8,5
 
+termiou a tabela 
+
+## Comandos
+Para colocar comandos coloque o comando entre crase `` EX:
+Não entendo o comando `document.getElementById() ` 
+## Trexos de progrmas 
+para colocar trexos de programas colocamos o trexo do programa entre 3 crases ex:
+```
+num = int(input('Digite um valor:')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else: 
+    print(f'O valor {print} é IMPAR')
+```
+
+## emoji 
+Para colocar emoji usamos doi pontos e o nome do emoji e para saber o nome do emoji acesse [github.com/ikatyang](github.com/ikatyang) 
 
 
 
