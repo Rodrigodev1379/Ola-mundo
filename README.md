@@ -34,15 +34,18 @@ Para criar a lista de tarefas basta colocar -[] traço espaço abre colchetes es
 
 ## Colocando imagens
 Para colocar imagens basta arrastar a imgaem para a linha que está abaixo do editor "Attach files by dragging & dropping, selecting or pasting them." 
-Dica No máximo 500px de largura 400 ou 500
+Dica No máxima de largura 400 ou 500 de largura px. Aparte em conchetes [] é a descrição da foto a parete entre parenteses () é o link da foto.
 
 ![noite](https://user-images.githubusercontent.com/108586531/177046233-e2032b1b-4b1f-4494-8be5-4ffbce54299c.jpg)
 
+## link
+O link funciona como a foto. a parte entre colchetes [] é a descrição ou o que vai ficar visível e a parte entre parenteses é o URL
+Acesse o youtube.com [cligando aqui ](https://youtube.com)
 
-
-
-
-
+## Tabelas 
+Para montar uma tabela se coloca as informações da primeira linha separada por pipe | abaixo coloca a separação por 3 traços e um pipe ---| com a quantidade de colunas 
+ex:
+Num | Aluno | Nota
 
 
 
