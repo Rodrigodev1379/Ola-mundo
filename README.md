@@ -68,6 +68,17 @@ else:
 
 ## emoji 
 Para colocar emoji usamos doi pontos e o nome do emoji e para saber o nome do emoji acesse [github.com/ikatyang](github.com/ikatyang) 
+Caso queira colocar no título basta ir no emojipedia e copiar o emoji e colar 
+😄 😎 🐻
+
+## Marcar peçoes 
+
+para faze um reply clique em reticências e clicar em quote reply
+
+e nem precisa ser uma postagem, basta colocar o sinal de maior 
+
+## Citações 
+
 
 
 
