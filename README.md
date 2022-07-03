@@ -33,8 +33,9 @@ Para criar a lista de tarefas basta colocar -[] traço espaço abre colchetes es
 - [ ] fazer outro curso
 
 ## Colocando imagens
-Para colocar imagens basta arrastar a imgaem para a linha que está abaixo do editor "Attach files by dragging & dropping,
-selecting or pasting them."
+Para colocar imagens basta arrastar a imgaem para a linha que está abaixo do editor "Attach files by dragging & dropping, selecting or pasting them." 
+Dica No máximo 500px de largura 400 ou 500
+
 ![noite](https://user-images.githubusercontent.com/108586531/177046233-e2032b1b-4b1f-4494-8be5-4ffbce54299c.jpg)
 
 
